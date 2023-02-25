@@ -11,7 +11,7 @@ require (
 	github.com/mattn/go-runewidth v0.0.9
 	github.com/muesli/reflow v0.2.0
 	github.com/muesli/termenv v0.7.4
-	golang.org/x/sys v0.0.0-20201026173827-119d4633e4d1 // indirect
+	golang.org/x/sys v0.1.0 // indirect
 )
 
 replace github.com/charmbracelet/bubbletea => ../
